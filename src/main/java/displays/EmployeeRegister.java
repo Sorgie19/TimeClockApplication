@@ -62,7 +62,6 @@ public class EmployeeRegister extends JFrame
 
         setJMenuBar(heading); // sets top JMenuBar
         getContentPane().add(display); // JPanel
-        getContentPane().add(dislay2);
         // sets layout to grid
         display.setLayout(new GridLayout(6, 1));
 
