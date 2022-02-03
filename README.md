@@ -4,6 +4,7 @@ A simple time clock application
 # How to run:
 If using mvn, can run with command: mvn exec:java
 If not, in a command prompt run the jar like this 
+java -cp timeclock-0.0.1-SNAPSHOT.jar timeclock.TimeClockApplication
 
 # Images
 ![Employee Login:](https://i.imgur.com/jpSydpf.jpg)
