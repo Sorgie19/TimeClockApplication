@@ -19,10 +19,7 @@ import employee.Employee;
 
 /**
  * Responsible for
- * <p style="font-style:italic;font-variant:small-caps;font-size:80%">
- * Copyright &copy; Cerner Corporation 2022 All rights reserved.
- * </p>
- * @author Ryan Sorge (RS071903)
+ * @author Ryan Sorge
  */
 public class AdminClock extends TimeClock
 {
